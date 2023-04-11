@@ -32,7 +32,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/flexbox-pseudoclass-selectors-bNXrDSc1Dh)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -64,7 +64,7 @@ I had some major problems with positioning the backgrounds. Tried several ways, 
 
 ## Author
 - Frontend Mentor - [@LucianIoan31](https://www.frontendmentor.io/profile/LucianIoan31)
-- GitHub - [@LucianIoan31](https://github.com/LucianIoan31)
+- Github - [@LucianIoan31](https://github.com/LucianIoan31)
 
 ## Acknowledgments
 
