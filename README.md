@@ -54,7 +54,7 @@ Became more confident in using selectors.
 
 ### Continued development
 
-I had some major problems with positioning the backgrounds. Tried several ways, by using background-image and by using the img tag in HTML file. I have positioned them somehow but I don't like that whenever I change the vieport of the window, the background is changing too. 
+I had some major problems with positioning the backgrounds. Tried several ways, by using background-image and by using the img tag in HTML file. I have positioned them somehow but I don't like that whenever I change the viewport of the window, the background is changing too. 
 
 
 ### Useful resources
